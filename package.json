@@ -1,0 +1,14 @@
+{
+  "name": "com.at.joseph",
+  "version": "1.0.0",
+  "description": "A nodejs Api for MC60 testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joseph mcclane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
